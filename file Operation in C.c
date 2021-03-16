@@ -1,3 +1,7 @@
+/*Author: Alphonce  Fs.
+  alphoncesteven@gmail.com
+  @afsaTech
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #define STUDENT 2
